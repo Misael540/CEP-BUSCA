@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Busca CEP\Busca CEP\bin\Debug\Busca CEP.exe.config
+C:\Users\User\source\repos\Busca CEP\Busca CEP\bin\Debug\Busca CEP.exe
+C:\Users\User\source\repos\Busca CEP\Busca CEP\bin\Debug\Busca CEP.pdb
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca CEP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca CEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca_CEP.Form1.resources
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca_CEP.Properties.Resources.resources
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca CEP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca CEP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca CEP.exe
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca CEP.pdb
+C:\Users\User\source\repos\Busca CEP\Busca CEP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Busca CEP\Busca CEP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Busca CEP\Busca CEP\obj\Debug\Busca CEP.csproj.CopyComplete
